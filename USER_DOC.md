@@ -3,7 +3,7 @@
 HTTP web server, software that includes several parts that control how web users access hosted files, it understands URLs (web addresses) and HTTP (the protocol browsers use to view webpages), it can be accessed through the domain names of the websites it stores, and it delivers the content of these hosted websites to the end user's device
 
 ### MariaDB
-Open source relational database
+Open source relational database, based on MySQL
 
 ### Wordpress
 Web content management system (software used to manage the creation and modification of digital content) providing website authoring, collaboration, and administration tools that help users with little knowledge of web programming or markup languages create and manage website content

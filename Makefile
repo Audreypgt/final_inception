@@ -22,4 +22,4 @@ fclean:
 	sudo rm -rf /home/apeuget42/data/mariadb/*;\
 	sudo rm -rf /home/apeuget42/data/wordpress/*;\
 
-.PHONY: all re down clean
+.PHONY: start stop up down re fclean

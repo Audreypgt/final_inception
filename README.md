@@ -1,4 +1,4 @@
-*This activity has been created as part of the 42 curriculum by apeuget*
+*This activity has been created as part of the 42 curriculum by aupeuget*
 
 # Inception
 
@@ -79,4 +79,4 @@ Prerequesites: Docker, Make, VirtualBox and a Virtual Machine
 
 Some AI was used to help debug when peers weren't available or didn't know how to fix it
 
-HUGE thanks to Benjamin and [Marie](https://github.com/Marieh25) who absolutely carried me for this project
+HUGE thanks to [Benjamin](https://github.com/Bjmrzd/) and [Marie](https://github.com/Marieh25) who absolutely carried me for this project

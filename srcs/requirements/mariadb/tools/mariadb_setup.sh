@@ -31,10 +31,7 @@ FLUSH PRIVILEGES;
 EOF
 
 wait
+# waits until it connects to wordpress
 
-# alter user modifies root user's password when connected through host machine (local host) as opposed to 'root'@'%', % meaning
-# everywhere
-# \' \' used to escape database names or tables (useful if it contains special characters) or any of these
-# so-called "identifiers" objects
 # EOF allows shell to read all commands at the same time, this prevents me getting error "Access denied for user 'root'@'localhost' (using password: NO)"
 # since the alter user command changes the root password and would need me to authenticate again
