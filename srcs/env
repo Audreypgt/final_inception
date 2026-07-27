@@ -1,0 +1,12 @@
+DOMAIN_NAME=apeuget.42.fr
+
+# MariaDB
+DB_DATABASE=mariadb
+DB_USER=db_user
+
+# WordPress
+WP_TITLE=wordpress
+WP_ADMIN_USER=adumbmysqlinternalname
+WP_ADMIN_EMAIL=apeuget@hotmail.fr
+WP_USER=wp_user
+WP_USER_EMAIL=apeuget@gmail.fr
