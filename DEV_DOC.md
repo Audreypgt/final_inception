@@ -86,6 +86,9 @@ check the DB:
     - `SHOW DATABASES;`
     - `SELECT user, host FROM mysql.user;` (you should see the users we created and the % under host)
     - `SHOW GRANTS FOR 'db_user'@'%';`
+- check if there is something in the database:
+    - `use [name_of_DB];`
+    - `show tables;`
 - if this fails go back to your container and check your env variables were correctly set:
     - `echo $DB_NAME`
     - `echo $DB_USER`
